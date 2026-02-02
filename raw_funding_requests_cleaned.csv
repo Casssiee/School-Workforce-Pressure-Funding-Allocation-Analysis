@@ -1,0 +1,101 @@
+Request_ID,School_ID,Request_Date,Category,Status,Amount,Status_Date,School_Name
+REQ1056,2032,2022-01-09,Sports Equipment,Declined,10000,2022-01-14,Riverview High
+REQ1059,2032,2022-01-08,Maintenance,Declined,50000,2022-01-16,Riverview High
+REQ1072,2069,2022-01-22,Sports Equipment,Declined,100000,2022-02-01,Goldenview Academy
+REQ1014,2051,2022-01-29,STEM Lab,Declined,100000,2022-02-04,Silverbank Public
+REQ1000,2025,2022-02-03,STEM Lab,Declined,250000,2022-02-13,Pacificfield Tech
+REQ1090,2101,2022-02-20,Maintenance,Pending,15000,2022-02-22,Sunnyfield Public
+REQ1012,2081,2022-02-25,Sports Equipment,Pending,100000,2022-03-06,Silverside Public
+REQ1044,2055,2022-03-01,Maintenance,Approved,250000,2022-03-07,Pacificview Grammar
+REQ1076,2071,2022-03-06,Sports Equipment,Declined,10000,2022-03-08,Pacificfield College
+REQ1092,2012,2022-03-23,Sports Equipment,Pending,250000,2022-03-31,Forestview High
+REQ1052,2036,2022-03-21,Maintenance,Approved,15000,2022-04-06,Meadowbank Secondary
+REQ1096,2102,2022-04-05,Maintenance,Approved,5000,2022-04-10,Centralbank Tech
+REQ1063,2012,2022-04-29,Capital Works,Approved,100000,2022-05-04,Forestview High
+REQ1074,2115,2022-04-21,Capital Works,Approved,100000,2022-05-08,Southfield Tech
+REQ1081,2040,2022-05-17,Capital Works,Pending,100000,2022-05-18,Sunnybank Primary
+REQ1002,2025,2022-05-18,STEM Lab,Declined,50000,2022-05-23,Pacificfield Tech
+REQ1001,2066,2022-05-25,Capital Works,Pending,100000,2022-05-29,Lakewood Public
+REQ1007,2041,2022-05-21,Sports Equipment,Approved,250000,2022-05-30,Forestwood College
+REQ1079,2083,2022-06-11,STEM Lab,Submitted,50000,2022-06-19,Valleybank Primary
+REQ1099,2109,2022-06-13,Capital Works,Approved,89118,2022-06-30,Forestview Grammar
+REQ1030,2043,2022-07-09,Maintenance,Declined,10000,2022-07-10,Riverside Public
+REQ1040,2053,2022-07-16,STEM Lab,Approved,5000,2022-07-21,Citybank Tech
+REQ1068,2059,2022-07-15,Capital Works,Approved,100000,2022-07-27,Riverview Public
+REQ1038,2058,2022-08-13,Sports Equipment,Approved,100000,2022-08-22,Hillsside High
+REQ1095,2025,2022-08-22,Capital Works,Submitted,121667,2022-08-24,Pacificfield Tech
+REQ1045,2069,2022-08-29,IT Upgrade,Approved,15000,2022-09-02,Goldenview Academy
+REQ1032,2012,2022-08-25,Maintenance,Submitted,15000,2022-09-03,Forestview High
+REQ1053,2020,2022-09-03,Maintenance,Approved,5000,2022-09-07,Redside Public
+REQ1050,2033,2022-09-07,Sports Equipment,Pending,50000,2022-09-14,Valleyside Secondary
+REQ1019,2035,2022-09-16,Maintenance,Declined,100000,2022-09-19,Springbank Tech
+REQ1048,2026,2022-09-13,Sports Equipment,Approved,15000,2022-09-25,Sunnyfield College
+REQ1013,2105,2022-09-20,Sports Equipment,Declined,15000,2022-09-30,Mountainview Grammar
+REQ1022,2116,2022-10-07,Capital Works,Declined,250000,2022-10-15,Pacificfield College
+REQ1026,2107,2022-10-17,Sports Equipment,Approved,5000,2022-10-18,Forestside Grammar
+REQ1085,2026,2022-10-17,IT Upgrade,Pending,50000,2022-10-20,Sunnyfield College
+REQ1015,2078,2022-10-20,Capital Works,Declined,15000,2022-10-23,Harbourwood Public
+REQ1093,2081,2022-10-17,STEM Lab,Submitted,10000,2022-10-24,Silverside Public
+REQ1054,2107,2022-10-27,Sports Equipment,Submitted,50000,2022-10-29,Forestside Grammar
+REQ1017,2089,2022-10-25,IT Upgrade,Declined,81591,2022-10-30,Westfield High
+REQ1094,2088,2022-11-02,STEM Lab,Approved,50000,2022-11-18,Eastwood Academy
+REQ1033,2011,2022-11-19,IT Upgrade,Approved,10000,2022-11-24,Forestfield Public
+REQ1031,2060,2022-11-25,IT Upgrade,Approved,55000,2022-11-30,Springwood Secondary
+REQ1067,2091,2022-11-30,IT Upgrade,Submitted,250000,2022-12-02,Eastwood Primary
+REQ1049,2008,2022-12-08,Maintenance,Approved,15000,2022-12-16,Harbourside Grammar
+REQ1091,2009,2022-12-02,STEM Lab,Approved,5000,2022-12-22,Hillsfield Secondary
+REQ1011,2018,2022-12-17,Maintenance,Declined,10000,2022-12-23,Harbourside High
+REQ1087,2024,2022-12-23,STEM Lab,Submitted,5000,2022-12-25,Centralfield Public
+REQ1061,2112,2022-12-21,IT Upgrade,Approved,100000,2022-12-27,Cityside Public
+REQ1047,2003,2022-12-17,Maintenance,Approved,53077,2022-12-27,Forestview High
+REQ1078,2029,2023-01-28,IT Upgrade,Pending,15000,2023-02-04,Northwood Secondary
+REQ1010,2073,2023-02-09,Sports Equipment,Submitted,50000,2023-02-13,Lakeside Grammar
+REQ1004,2061,2023-02-24,IT Upgrade,Declined,250000,2023-02-25,Silverbank Primary
+REQ1070,2058,2023-02-16,IT Upgrade,Declined,50000,2023-02-25,Hillsside High
+REQ1069,2018,2023-02-22,IT Upgrade,Approved,5000,2023-03-05,Harbourside High
+REQ1020,2009,2023-02-24,Sports Equipment,Approved,250000,2023-03-06,Hillsfield Secondary
+REQ1071,2093,2023-03-11,Sports Equipment,Declined,10000,2023-03-21,Meadowview Primary
+REQ1042,2028,2023-03-29,IT Upgrade,Pending,50000,2023-04-01,Westside Academy
+REQ1037,2102,2023-03-23,Capital Works,Submitted,250000,2023-04-02,Centralbank Tech
+REQ1029,2085,2023-04-01,Capital Works,Pending,50000,2023-04-04,Harbourbank Grammar
+REQ1057,2040,2023-04-03,Sports Equipment,Declined,72391,2023-04-05,Sunnybank Primary
+REQ1003,2091,2023-04-06,IT Upgrade,Submitted,5000,2023-04-11,Eastwood Primary
+REQ1089,2070,2023-04-08,Sports Equipment,Submitted,50000,2023-04-12,Mountainview College
+REQ1055,2082,2023-04-12,IT Upgrade,Approved,15000,2023-04-19,Lakeside High
+REQ1077,2044,2023-04-26,IT Upgrade,Submitted,100000,2023-04-27,Hillswood Academy
+REQ1060,2031,2023-05-20,IT Upgrade,Pending,250000,2023-05-21,Mountainview Primary
+REQ1046,2065,2023-05-27,Maintenance,Pending,100000,2023-06-02,Eastwood Grammar
+REQ1064,2006,2023-05-28,IT Upgrade,Approved,86667,2023-06-08,Hillsbank Grammar
+REQ1088,2072,2023-06-03,IT Upgrade,Approved,250000,2023-06-10,Meadowside Primary
+REQ1018,2009,2023-06-17,STEM Lab,Pending,5000,2023-06-24,Hillsfield Secondary
+REQ1034,2081,2023-07-04,Capital Works,Pending,250000,2023-07-05,Silverside Public
+REQ1065,2010,2023-06-27,IT Upgrade,Pending,100000,2023-07-05,Goldenview Public
+REQ1024,2108,2023-07-06,Capital Works,Pending,5000,2023-07-08,Eastside Academy
+REQ1062,2109,2023-07-08,IT Upgrade,Approved,100000,2023-07-16,Forestview Grammar
+REQ1083,2042,2023-06-26,IT Upgrade,Approved,10000,2023-07-16,Eastfield Grammar
+REQ1075,2081,2023-07-11,STEM Lab,Declined,15000,2023-07-17,Silverside Public
+REQ1009,2077,2023-07-13,Capital Works,Submitted,5000,2023-07-20,Westbank Tech
+REQ1005,2001,2023-07-16,IT Upgrade,Submitted,10000,2023-07-22,Southfield College
+REQ1066,2080,2023-07-26,STEM Lab,Submitted,5000,2023-07-27,Silverside Secondary
+REQ1025,2078,2023-07-28,STEM Lab,Pending,5000,2023-08-01,Harbourwood Public
+REQ1021,2117,2023-08-13,IT Upgrade,Declined,50000,2023-08-16,Springview High
+REQ1051,2087,2023-08-12,Sports Equipment,Declined,10000,2023-08-18,Pacificbank Academy
+REQ1058,2024,2023-08-20,Sports Equipment,Pending,50000,2023-08-25,Centralfield Public
+REQ1028,2025,2023-08-26,IT Upgrade,Declined,100000,2023-08-29,Pacificfield Tech
+REQ1043,2110,2023-08-28,Capital Works,Approved,100000,2023-08-29,Westside Tech
+REQ1039,2035,2023-08-11,Maintenance,Approved,100000,2023-08-31,Springbank Tech
+REQ1082,2013,2023-09-05,Capital Works,Approved,15000,2023-09-11,Forestbank Academy
+REQ1080,2117,2023-09-04,Sports Equipment,Submitted,5000,2023-09-12,Springview High
+REQ1008,2023,2023-09-18,Sports Equipment,Pending,15000,2023-09-19,Cityfield Tech
+REQ1023,2000,2023-09-21,STEM Lab,Pending,100000,2023-09-22,Centralbank College
+REQ1036,2008,2023-09-21,Sports Equipment,Approved,15000,2023-09-29,Harbourside Grammar
+REQ1016,2033,2023-09-27,Capital Works,Declined,15000,2023-10-05,Valleyside Secondary
+REQ1084,2034,2023-10-02,Sports Equipment,Pending,66000,2023-10-11,Riverwood Tech
+REQ1027,2000,2023-10-08,Capital Works,Declined,10000,2023-10-13,Centralbank College
+REQ1006,2027,2023-10-21,Capital Works,Approved,50000,2023-10-22,Hillsbank Tech
+REQ1098,2081,2023-10-20,STEM Lab,Submitted,250000,2023-10-24,Silverside Public
+REQ1086,2101,2023-10-28,Maintenance,Pending,46667,2023-11-07,Sunnyfield Public
+REQ1073,2088,2023-10-21,Sports Equipment,Approved,5000,2023-11-10,Eastwood Academy
+REQ1035,2075,2023-11-18,Sports Equipment,Approved,250000,2023-11-21,Valleywood High
+REQ1041,2018,2023-11-24,STEM Lab,Submitted,15000,2023-11-30,Harbourside High
+REQ1097,2027,2023-11-29,IT Upgrade,Submitted,10000,2023-12-01,Hillsbank Tech
